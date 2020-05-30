@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c36e9e8-6ebe-41cd-8adf-6499c315a102" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="androidstaticanalysis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/SootAnalyze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35903">
+              <caret line="1635" column="20" selection-start-line="1635" selection-start-column="20" selection-end-line="1635" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equals</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/AppInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/TransitionEdge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/TransitionGraph.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/EdgeDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/TransitionGraphDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/DBUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/Widget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/WidgetDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/SubMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/WindowNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/MenuItemDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/SubMenuDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/WindowNodeDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/WindowType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/SootAnalyze.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/apktool_2.4.0.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdu.se.sootanalyze.utils.FileUtil" />
+      <module name="gesdastatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdu.se.sootanalyze.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdu.se.sootanalyze.Main" />
+      <module name="gesdastatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdu.se.sootanalyze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdu.se.sootanalyze.model.MenuItem" />
+      <module name="gesdastatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdu.se.sootanalyze.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuItemDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdu.se.sootanalyze.dao.MenuItemDao" />
+      <module name="gesdastatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdu.se.sootanalyze.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubMenuDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fdu.se.sootanalyze.dao.SubMenuDao" />
+      <module name="gesdastatic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fdu.se.sootanalyze.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="gesdastatic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="gesdastatic" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SubMenuDao" />
+        <item itemvalue="Application.MenuItemDao" />
+        <item itemvalue="Application.MenuItem" />
+        <item itemvalue="Application.FileUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c36e9e8-6ebe-41cd-8adf-6499c315a102" name="Default Changelist" comment="" />
+      <created>1583505355190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583505355190</updated>
+      <workItem from="1583505360590" duration="52418000" />
+      <workItem from="1584186368614" duration="1116000" />
+      <workItem from="1584435836208" duration="424000" />
+      <workItem from="1584926394925" duration="627000" />
+      <workItem from="1584942710747" duration="1808000" />
+      <workItem from="1584967013880" duration="4127000" />
+      <workItem from="1585013230291" duration="2933000" />
+      <workItem from="1585021125790" duration="2284000" />
+      <workItem from="1585048463584" duration="10021000" />
+      <workItem from="1585100120926" duration="9358000" />
+      <workItem from="1585184967997" duration="9122000" />
+      <workItem from="1585319423834" duration="643000" />
+      <workItem from="1585396134048" duration="7933000" />
+      <workItem from="1585451816999" duration="10063000" />
+      <workItem from="1585530582056" duration="17827000" />
+      <workItem from="1585618389254" duration="17904000" />
+      <workItem from="1585659456526" duration="2769000" />
+      <workItem from="1585704820142" duration="8473000" />
+      <workItem from="1585791334155" duration="17043000" />
+      <workItem from="1585877246811" duration="666000" />
+      <workItem from="1585901452990" duration="1185000" />
+      <workItem from="1586006524640" duration="1046000" />
+      <workItem from="1586052552522" duration="1195000" />
+      <workItem from="1586070646298" duration="1421000" />
+      <workItem from="1586093099933" duration="4362000" />
+      <workItem from="1586138555037" duration="8344000" />
+      <workItem from="1586220886369" duration="2823000" />
+      <workItem from="1586224971780" duration="12489000" />
+      <workItem from="1586307180974" duration="5706000" />
+      <workItem from="1586395407954" duration="12415000" />
+      <workItem from="1586481214044" duration="5428000" />
+      <workItem from="1586587556469" duration="2609000" />
+      <workItem from="1586654297230" duration="23320000" />
+      <workItem from="1586740119185" duration="10414000" />
+      <workItem from="1586763254755" duration="10108000" />
+      <workItem from="1586826758354" duration="2730000" />
+      <workItem from="1586870178494" duration="2065000" />
+      <workItem from="1586960270839" duration="1346000" />
+      <workItem from="1586961678472" duration="2075000" />
+      <workItem from="1587039760974" duration="621000" />
+      <workItem from="1587096332762" duration="3083000" />
+      <workItem from="1587194126594" duration="1452000" />
+      <workItem from="1587266566021" duration="11934000" />
+      <workItem from="1587344259389" duration="7676000" />
+      <workItem from="1587385289594" duration="1001000" />
+      <workItem from="1587429915048" duration="4328000" />
+      <workItem from="1587443995462" duration="2174000" />
+      <workItem from="1588122011341" duration="52010000" />
+      <workItem from="1588727122590" duration="7119000" />
+      <workItem from="1588813267590" duration="22721000" />
+      <workItem from="1588903312436" duration="9041000" />
+      <workItem from="1588924728227" duration="24301000" />
+      <workItem from="1588986312833" duration="18287000" />
+      <workItem from="1589071514617" duration="5567000" />
+      <workItem from="1589159390832" duration="1258000" />
+      <workItem from="1589417080264" duration="266000" />
+      <workItem from="1589417403602" duration="102000" />
+      <workItem from="1589545815801" duration="1387000" />
+      <workItem from="1590046229120" duration="429000" />
+      <workItem from="1590070064217" duration="1005000" />
+      <workItem from="1590078108611" duration="709000" />
+      <workItem from="1590301196172" duration="1110000" />
+      <workItem from="1590509867284" duration="1374000" />
+      <workItem from="1590800163387" duration="1427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="469022000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.2689394" />
+      <window_info id="Structure" order="1" sideWeight="0.50164473" side_tool="true" weight="0.22272727" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50164473" side_tool="true" weight="0.22272727" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="13" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/IfStmt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/callbacks/CallbackDefinition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/soot/jimple/infoflow/results/InfoflowResults.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/toolkits/graph/UnitGraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/heros/InterproceduralCFG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/toolkits/ide/icfg/BiDiInterproceduralCFG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/soot/jimple/infoflow/solver/cfg/IInfoflowCFG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/soot/jimple/infoflow/solver/cfg/InfoflowCFG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10748">
+          <caret line="58" column="75" lean-forward="true" selection-start-line="58" selection-start-column="75" selection-end-line="58" selection-end-column="75" />
+          <folding>
+            <element signature="e#2008#2009#0" expanded="true" />
+            <element signature="e#2075#2076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/SetupApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="837" column="16" selection-start-line="837" selection-start-column="16" selection-end-line="837" selection-end-column="16" />
+          <folding>
+            <element signature="e#55979#55980#0" expanded="true" />
+            <element signature="e#56023#56024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/soot/jimple/infoflow/taintWrappers/ITaintPropagationWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/toolkits/callgraph/ContextSensitiveCallGraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/EquivTo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/Constant.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/util/Numberable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/SootField.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="13" column="86" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/tagkit/Tag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/SootClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/axml/AXmlElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/resources/ARSCFileParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/resources/LayoutFileParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="147" column="61" selection-start-line="147" selection-start-column="61" selection-end-line="147" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/resources/AbstractResourceParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/manifest/ProcessManifest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="87" column="52" selection-start-line="87" selection-start-column="52" selection-end-line="87" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/axml/AXmlNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/axml/ApkHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/toolkits/callgraph/CallGraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/jimple/toolkits/callgraph/Edge.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2151">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/AppInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1018">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/EdgeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/TransitionGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/soot/SootMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="394" column="31" selection-start-line="394" selection-start-column="25" selection-end-line="394" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/apktool_2.4.0.jar!/brut/androlib/Androlib.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/apktool_2.4.0.jar!/brut/androlib/ApkDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/axml/AXmlHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-583">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/soot/jimple/infoflow/android/axml/AXmlAttribute.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/TransitionGraphDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/TransitionEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/WindowType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/WidgetDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1048">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/MenuItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/WindowNodeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/dao/SubMenuDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/Widget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/SubMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/model/WindowNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1585#1586#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="57" column="53" lean-forward="true" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fdu/se/sootanalyze/SootAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35903">
+          <caret line="1635" column="20" selection-start-line="1635" selection-start-column="20" selection-end-line="1635" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>androidstaticanalysis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ca.mcgill.sable:jasmin:3.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

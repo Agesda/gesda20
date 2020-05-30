@@ -1,0 +1,32 @@
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,double[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,int)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.CharSequence)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,char)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,android.os.Bundle)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,android.os.Parcelable[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.io.Serializable)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,int[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,float)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,byte[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,long[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,android.os.Parcelable)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,float[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,long)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,boolean)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,boolean[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,short)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,double)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,short[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.String)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,byte)> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,char[])> -> _SINK_
+%<android.content.Intent: android.content.Intent putExtra(java.lang.String,java.lang.CharSequence[])> -> _SINK_
+%<android.content.Intent: Intent(android.content.Context,java.lang.Class)> -> _SOURCE_
+%<android.content.Intent: void <init>(android.content.Context,java.lang.Class)> -> _SOURCE_
+%<android.content.Intent: void <init>()> -> _SOURCE_
+%<android.content.Intent: void <init>(android.content.Context,java.lang.Class)> -> _SOURCE_
+%<android.app.Activity: void startActivity(android.content.Intent)> -> _SINK_
+<android.app.Activity: android.view.View findViewById(int)> -> _SOURCE_
+<android.widget.Button: void setOnClickListener(android.view.View$OnClickListener)> -> _SINK_
+

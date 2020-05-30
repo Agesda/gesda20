@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.fdu.se</groupId>
+    <artifactId>android-static-analysis</artifactId>
+    <version>1.0-RELEASE</version>
+    <repositories>
+        <repository>
+            <id>aliyun</id>
+            <name>aliyun</name>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+    </repositories>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+       <!-- <dependency>
+            <groupId>ca.mcgill.sable</groupId>
+            <artifactId>soot</artifactId>
+            <version>4.1.0</version>
+        </dependency>-->
+        <dependency>
+            <groupId>net.sf.trove4j</groupId>
+            <artifactId>trove4j</artifactId>
+            <version>3.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.38</version>
+        </dependency>
+    </dependencies>
+
+
+</project>
