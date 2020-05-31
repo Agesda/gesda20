@@ -1,0 +1,1 @@
+The gesdastatic is responsible for extracting the dPTM, and the gesdadynamic performs the dynamic exploration.

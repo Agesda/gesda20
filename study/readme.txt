@@ -1,0 +1,1 @@
+The lacking dependencies of each app in Monkey and Stoat are listed in the result.xlsx.
